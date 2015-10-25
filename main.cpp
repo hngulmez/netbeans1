@@ -29,7 +29,8 @@ private:
 
 
 int main(int argc, char** argv) {
-    
+
+    cout << "new line" <<endl;
     S my;
     S my2(my);
     
